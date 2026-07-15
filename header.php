@@ -16,7 +16,7 @@ $page_title = $page_title ?? 'Aplikasi Data Karyawan';
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
     <div class="container">
         <a class="navbar-brand fw-bold" href="#">
-            <strong>UAS PWB MUCHAMMAD AZIZ</strong><br>
+            <strong>UAS PBW MUCHAMMAD AZIZ</strong><br>
             <small>NIM A18.2025.00175</small>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
