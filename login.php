@@ -54,7 +54,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <div class="col-md-5 col-lg-4">
             <div class="card shadow-lg border-0">
                 <div class="card-body p-4">
-                    <h2 class="text-center text-primary fw-bold">SI Karyawan</h2>
+                    <h2 class="text-center text-primary fw-bold">Data Karyawan</h2>
                     <p class="text-center text-muted">Silakan login untuk masuk</p>
 
                     <?php if ($error !== ''): ?>
